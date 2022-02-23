@@ -1,0 +1,3 @@
+Admin account
+username: thomas
+password: 12345
